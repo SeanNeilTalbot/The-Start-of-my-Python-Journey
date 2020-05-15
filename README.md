@@ -13,4 +13,6 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 3. DisplayingText.py - More text displaying coding examples
 
+#Remember - There is always more than one way to do something, as long as it works!
+
 

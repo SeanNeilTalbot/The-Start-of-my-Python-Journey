@@ -13,3 +13,7 @@ print('The ' + color+ ' ' + animal + ' ran up the ' + building)
 print(animal.lower())       #All lower case
 print(animal.upper())       #All caps
 print(animal.swapcase())    #Swops upper and lower and vice versa
+print(animal.find('a'))                         #Finds the index location of 'a'
+print(animal.count('e'))                        #Counts the amount of character 'e'
+print(animal.capitalize())                      #Capitalizes first letter
+print(animal.replace('cheetah','No cheetahs'))  #replaces the desired wo

@@ -15,6 +15,8 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 4. PrintPoem.py - Printing a poem over multiple lines.
 
+5. StringsAndVariables.py - Requesting input, assigning input to variables and manipulating.
+
 #Remember - There is always more than one way to do something, as long as it works!
 
 

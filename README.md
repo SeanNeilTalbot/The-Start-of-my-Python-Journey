@@ -10,3 +10,7 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 1. HelloWord.py - The first code was the traditional first code of HelloWorld.
 
 2. PrintNurseryRhyme.py - Basic code on different print methods and practice the prin() method.
+
+3. DisplayingText.py - More text displaying coding examples
+
+

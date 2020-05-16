@@ -38,3 +38,15 @@ print("The addition is {0:.2f}".format(addition)) #Rounds %f to 2 decimal places
 print("The addition is {0:d} and the modulo is {1:d}".format(addition,modulo)) 
 #First place holder distinguishes amount of numbers to display
 
+#User number input
+
+salary = int(input("Please enter your salary: "))
+bonus = int(input("Please enter your bonus: "))
+
+paycheck = salary + bonus
+print(paycheck)
+
+#int()
+#long()
+#float()
+#str()

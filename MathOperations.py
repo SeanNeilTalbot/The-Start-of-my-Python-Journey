@@ -35,5 +35,6 @@ print("The addition is {0:03d}".format(addition)) #3 charachter places with lead
 print("The addition is {0:f}".format(addition))   #Where you see %f replaces with float number (contains 6 decimals)
 print("The addition is {0:.2f}".format(addition)) #Rounds %f to 2 decimal places. ie specify places
 
-print("The addition is {0:d} and the modulo is {1:d}".format(addition,modulo)) #First place holder distinguishes amount of numbers to display
+print("The addition is {0:d} and the modulo is {1:d}".format(addition,modulo)) 
+#First place holder distinguishes amount of numbers to display
 

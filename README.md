@@ -17,6 +17,8 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 5. StringsAndVariables.py - Requesting input, assigning input to variables and manipulating.
 
-6. StoryTeller.py - Story teller program showing examples of input, output, variable manipulation and formatting
+6. StoryTeller.py - Story teller program showing examples of input, output, variable manipulation and formatting.
+
+7. MathOperations.py - Most common math operations in Python and the use of them. We also take a look at formatting
 
 #Remember - There is always more than one way to do something, as long as it works!

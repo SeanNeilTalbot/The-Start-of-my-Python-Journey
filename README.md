@@ -25,8 +25,6 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 9. IfStatements.py - Introduction into if statements and use thereof.
 
-10. ShippingCalculation.py - use of if statement to calculate shipping costs based on $50 conditions
-
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

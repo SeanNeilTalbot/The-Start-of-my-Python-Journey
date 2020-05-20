@@ -23,6 +23,8 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 8. DateTime.py - We take a look at date and time as well as importing modules
 
+9. IfStatements.py - Introduction into if statements and use thereof.
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

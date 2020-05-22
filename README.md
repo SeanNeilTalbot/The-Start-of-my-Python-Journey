@@ -25,6 +25,8 @@ I am starting this new jounrey using Microsoft Visual Studio 2019.
 
 9. IfStatements.py - Introduction into if statements and use thereof.
 
+10. IfWhenThen.py - #We take a look at more complex use of the if statement
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

@@ -33,6 +33,8 @@ Chapter 2 - Turning things up a bit
 
 2.2. ForLoops.py - We take a look at for loops and we use the turtle module
 
+2.3 NestedLoops.py - We take a look at Nested loops and accessing the loop value
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

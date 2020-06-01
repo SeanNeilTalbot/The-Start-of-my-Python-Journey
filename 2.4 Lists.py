@@ -53,3 +53,8 @@ for steps in range(nbrEntries):
 
 for guest in guests:
     print(guest)
+
+#Sorting a list
+guests.sort()
+for guest in guests:
+    print(guest)

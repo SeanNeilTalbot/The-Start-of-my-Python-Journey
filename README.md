@@ -33,9 +33,11 @@ Chapter 2 - Turning things up a bit
 
 2.2. ForLoops.py - We take a look at for loops and we use the turtle module
 
-2.3 NestedLoops.py - We take a look at Nested loops and accessing the loop value
+2.3. NestedLoops.py - We take a look at Nested loops and accessing the loop value
 
-2.4 Lists.py - In this section we look at creating lists, Updating lists and Searching Lists
+2.4. Lists.py - In this section we look at creating lists, Updating lists and Searching Lists
+
+2.5. Files.py - We work with files, writing to files, saving and reading files.
 
 #Remember; 
 There is always more than one way to do something, as long as it works!

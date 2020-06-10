@@ -39,6 +39,8 @@ Chapter 2 - Turning things up a bit
 
 2.5. Files.py - We work with files, writing to files, saving and reading files.
 
+2.6. ReadingFromFiles.py - We practice different methods of reading files.
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

@@ -43,6 +43,10 @@ Chapter 2 - Turning things up a bit
 
 2.7. CSVFiles.py - We work with CSV files and Importing the library
 
+Chapter 3 - Dipping Toes into Advanced Code
+
+
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

@@ -41,6 +41,8 @@ Chapter 2 - Turning things up a bit
 
 2.6. ReadingFromFiles.py - We practice different methods of reading files.
 
+2.7. CSVFiles.py - We work with CSV files and Importing the library
+
 #Remember; 
 There is always more than one way to do something, as long as it works!
 Always test your code!

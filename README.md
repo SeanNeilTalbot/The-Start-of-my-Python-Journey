@@ -45,7 +45,9 @@ Chapter 2 - Turning things up a bit
 
 Chapter 3 - Dipping Toes into Advanced Code
 
+3.1. Functions.py - We take a look at creating your own functions.
 
+3.2. Parameters.py - We work with parameters
 
 #Remember; 
 There is always more than one way to do something, as long as it works!

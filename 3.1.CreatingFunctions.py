@@ -1,6 +1,6 @@
 #CreatingFunctions.py
 
-#We take a look at creating your own functions and about passing in parameters into your functions.
+#We take a look at creating your own functions.
 
 #Creating a function
     #Keyword def = define

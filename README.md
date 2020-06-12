@@ -52,5 +52,5 @@ Chapter 3 - Dipping Toes into Advanced Code
 3.3. ErrorHandeling.py - We look at try and except, getting error information and handeling errors
 
 #Remember; 
-There is always more than one way to do something, as long as it works!
-Always test your code!
+- There is always more than one way to do something, as long as it works!
+- Always test your code!
